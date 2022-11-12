@@ -6,7 +6,7 @@
 
 # 2 why
 
-* have a lastest aur packages
+* have lastest aur packages
 
 # 3 thanks
 
